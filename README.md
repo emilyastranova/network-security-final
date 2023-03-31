@@ -6,7 +6,6 @@ Folder structure
 
 ```bash
 .
-├── CSCI458-Project-PRESENT_Spring22.pdf
 ├── README.md
 ├── tcpclient.py
 ├── tcpserver.py
